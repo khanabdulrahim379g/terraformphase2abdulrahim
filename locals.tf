@@ -1,5 +1,5 @@
 locals {
-  prefix = "ayushi-${var.env}"
+  prefix = "abdul-${var.env}"
 
 
   #resources_names
